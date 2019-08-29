@@ -7,3 +7,4 @@
 4. Compare UCB to Optimistic Value and e-greedy for both Stationary & Non-Stationary case.
 
 * Theory included in the jupyter notebook.
+* Kindly download and view the notebooks if they are not being rendered in Github.
