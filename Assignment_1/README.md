@@ -5,3 +5,5 @@
 3. Exercise 2.7. Making constant step-size independent of Q_1, propose a method that does the above. Demonstrate using analysis.
 
 4. Compare UCB to Optimistic Value and e-greedy for both Stationary & Non-Stationary case.
+
+* Theory included in the jupyter notebook.
